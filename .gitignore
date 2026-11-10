@@ -12,7 +12,7 @@ __pycache__/
 venv/
 env/
 
-# LaTeX build files (keep .tex, .bib and the PDF you submit)
+# LaTeX build files
 *.aux
 *.bbl
 *.blg
