@@ -1,0 +1,24 @@
+# Generated data (fully reproducible from seed 42; the .npz is ~112 MB)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# LaTeX build files (keep .tex, .bib and the PDF you submit)
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
