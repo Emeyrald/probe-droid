@@ -1,0 +1,7 @@
+,Blade_Pass_Hz,Shaft_Rate_Hz,Est_Blade_Count_Int,Doppler_BW_Hz,Spectral_Entropy,Extraction_Failed
+Blade_Pass_Hz,1.0,-0.1719,0.6893,0.3359,0.1515,-0.021
+Shaft_Rate_Hz,-0.1719,1.0,-0.7295,-0.1252,-0.3591,-0.1558
+Est_Blade_Count_Int,0.6893,-0.7295,1.0,0.2514,0.3207,-0.0393
+Doppler_BW_Hz,0.3359,-0.1252,0.2514,1.0,0.604,-0.0087
+Spectral_Entropy,0.1515,-0.3591,0.3207,0.604,1.0,-0.2667
+Extraction_Failed,-0.021,-0.1558,-0.0393,-0.0087,-0.2667,1.0
